@@ -2,7 +2,7 @@ near-sms-tool
 ==================
 
 The small tool to send short messages between NEAR accounts.
-<br />Demo: https://nms.kiemtienonline360.com/
+<br />After being supported by the NEAR Foundation and LNC, the project changed its name to NEAR Messaging Service (NMS) and continued to develop with more features. Please see at new repo: https://github.com/Learn-NEAR-Club/nms
 
 Quick Start
 ===========
